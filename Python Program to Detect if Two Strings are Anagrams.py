@@ -1,4 +1,4 @@
-# Problem 3 : Python Program to Detect if Two Strings are Anagrams
+# Python Program to Detect if Two Strings are Anagrams
 
 str1=input("Enter first string:")
 str2 = input("Enter second string:")
