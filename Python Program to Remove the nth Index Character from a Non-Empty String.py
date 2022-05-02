@@ -1,4 +1,4 @@
-# Problem 2 : Python Program to Remove the nth Index Character from a Non-Empty String
+# Python Program to Remove the nth Index Character from a Non-Empty String
 
 str = input("Enter a string:")
 n = int(input("Enter value nth index tobe removed:"))
