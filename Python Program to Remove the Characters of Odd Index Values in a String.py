@@ -1,4 +1,4 @@
-# Problem 8 : Python Program to Remove the Characters of Odd Index Values in a String
+# Python Program to Remove the Characters of Odd Index Values in a String
 
 str = input("Enter a string:")
 print("Original string:",str)
