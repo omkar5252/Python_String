@@ -1,4 +1,4 @@
-# Problem 5 : Python Program to Count the Number of Vowels in a String
+# Python Program to Count the Number of Vowels in a String
 
 data = input("Enter a string:")
 count = 0
