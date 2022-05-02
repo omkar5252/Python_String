@@ -1,4 +1,4 @@
-# Problem 10 : Python Program to Take in Two Strings and Display the Larger String without Using Built-in Functions
+# Python Program to Take in Two Strings and Display the Larger String without Using Built-in Functions
 
 str1 = input("Enter a first string:")
 str2 = input("Enter a second string:")
