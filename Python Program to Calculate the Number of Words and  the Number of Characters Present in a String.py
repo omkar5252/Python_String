@@ -1,4 +1,4 @@
-# Problem 9 : Python Program to Calculate the Number of Words and 
+# Python Program to Calculate the Number of Words and 
 # the Number of Characters Present in a String
 
 str = input("Enter a string:")
